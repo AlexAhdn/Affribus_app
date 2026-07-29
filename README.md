@@ -1,6 +1,6 @@
 # 🚌 AFRIBUS
 
-**Plateforme SaaS multi-entreprise de réservation de billets de bus pour l'Afrique de l'Ouest**
+**Plateforme SaaS multi-compagnie de gestion et de réservation de billets de bus pour l'Afrique de l'Ouest**
 
 AFRIBUS connecte plusieurs compagnies de transport (Bénin, Togo, Niger, Ghana, Côte d'Ivoire) sur une plateforme unique, permettant aux voyageurs de rechercher, réserver et payer leurs billets en ligne, et aux compagnies de gérer leurs trajets, véhicules et réservations depuis un tableau de bord dédié.
 
@@ -55,7 +55,7 @@ Le projet suit une architecture client-serveur classique :
 ```bash
 # Cloner le dépôt
 git clone https://github.com/AlexAhdn/Affribus_app.git
-cd Affribus_app
+cd reservation_bus
 
 # Backend (Laravel)
 cd backend
@@ -71,14 +71,9 @@ npm install
 npm run dev
 ```
 
-> Adapte les noms de dossiers (`backend` / `frontend`) à la structure réelle de ton dépôt.
-
 ## 👤 Auteur
 
 **Alex Emmanuel AHOUANDJINOU**
 Développeur Full Stack — Étudiant en Licence Professionnelle, Architecture Logicielle (ESGIS Bénin)
 📧 axeahdn@gmail.com
 
-## 📄 Licence
-
-Projet réalisé dans le cadre d'un stage professionnel chez Nautilus Technologie / Fedapay.
