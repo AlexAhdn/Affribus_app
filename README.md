@@ -55,7 +55,7 @@ Le projet suit une architecture client-serveur classique :
 ```bash
 # Cloner le dépôt
 git clone https://github.com/AlexAhdn/Affribus_app.git
-cd reservation_bus
+cd Afribus_app
 
 # Backend (Laravel)
 cd backend
